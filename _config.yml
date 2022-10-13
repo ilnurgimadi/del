@@ -3,15 +3,14 @@ author: Ilnur Gimadi
 url: https://ilnurgimadi.github.io/
 description: > # description of the site (multiple lines allowed)
   Back-end developer C/C++/Qt; Host of LAMPh project in Physical-Technical Institute, FRC Kazan Scientific Center.
-  - 🔭 I'm currently working at Physical-Technical Institute, FRC Kazan Scientific Center
-  - ⚙️ I use: `C`, `C++`, `Qt`, `MATLAB`
-  - 💬 I also know: `PHP`, `HTML`, `CSS`
-  - 🌍 I'm mostly active within the **21 School**
-  - 🌱 Learning all about **Open Source**
-  - 💬 Ping me about **Automation of everything**, **Research Software development**, **Design of technical equipment**
-  - 📫 Reach me in telegram or instagram: [@ilnurgimadi](https://t.me/ilnurgimadi)
-  - One of my programs distributed under a free license: [@lamph](https://github.com/llnoor/PROJECT_LAMPh)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  <br>- 🔭 I'm currently working at Physical-Technical Institute, FRC Kazan Scientific Center
+  <br>- ⚙️ I use: `C`, `C++`, `Qt`, `MATLAB`
+  <br>- 💬 I also know: `PHP`, `HTML`, `CSS`
+  <br>- 🌍 I'm mostly active within the **21 School**
+  <br>- 🌱 Learning all about **Open Source**
+  <br>- 💬 Ping me about **Automation of everything**, **Research Software development**, **Design of technical equipment**
+  <br>- 📫 Reach me in telegram or instagram: [@ilnurgimadi](https://t.me/ilnurgimadi)
+  <br>- One of my programs distributed under a free license: [@lamph](https://github.com/llnoor/PROJECT_LAMPh)
 
 permalink: /:slug
 
