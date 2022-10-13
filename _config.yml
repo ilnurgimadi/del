@@ -2,15 +2,14 @@ title: Ilnur Gimadi
 author: Ilnur Gimadi
 url: https://ilnurgimadi.github.io/
 description: > # description of the site (multiple lines allowed)
-  Back-end developer C/C++/Qt; Host of LAMPh project in Physical-Technical Institute, FRC Kazan Scientific Center.
-  <br>- 🔭 I'm currently working at Physical-Technical Institute, FRC Kazan Scientific Center
-  <br>- ⚙️ I use: `C`, `C++`, `Qt`, `MATLAB`
-  <br>- 💬 I also know: `PHP`, `HTML`, `CSS`
-  <br>- 🌍 I'm mostly active within the **21 School**
-  <br>- 🌱 Learning all about **Open Source**
-  <br>- 💬 Ping me about **Automation of everything**, **Research Software development**, **Design of technical equipment**
-  <br>- 📫 Reach me in telegram or instagram: [@ilnurgimadi](https://t.me/ilnurgimadi)
-  <br>- One of my programs distributed under a free license: [@lamph](https://github.com/llnoor/PROJECT_LAMPh)
+  <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png"><img class="emoji" alt="telescope" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png"></g-emoji> I'm currently working at Physical-Technical Institute, FRC Kazan Scientific Center</li>
+<li><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png"><img class="emoji" alt="gear" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png"></g-emoji> I use: <code>C</code>, <code>C++</code>, <code>Qt</code>, <code>MATLAB</code></li>
+<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"><img class="emoji" alt="speech_balloon" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji> I also know: <code>PHP</code>, <code>HTML</code>, <code>CSS</code></li>
+<li><g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png"><img class="emoji" alt="earth_africa" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png"></g-emoji> I'm mostly active within the <strong>21 School</strong></li>
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"></g-emoji> Learning all about <strong>Open Source</strong></li>
+<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"><img class="emoji" alt="speech_balloon" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji> Ping me about <strong>Automation of everything</strong>, <strong>Research Software development</strong>, <strong>Design of technical equipment</strong></li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"><img class="emoji" alt="mailbox" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"></g-emoji> Reach me in telegram or instagram: <a href="https://t.me/ilnurgimadi" rel="nofollow">@ilnurgimadi</a></li>
+<li>One of my programs distributed under a free license: <a href="https://github.com/llnoor/PROJECT_LAMPh">@lamph</a></li>
 
 permalink: /:slug
 
