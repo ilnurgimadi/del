@@ -1,3 +1,14 @@
+navbar_entries:
+  - title: about
+    url: about
+  - title: website
+    url: https://ilnurgimadi.github.io
+
+project_entries:
+  - title: LAMPh
+    url: https://github.com/ilnurgimadi/LAMPh
+    desc: Laboratory for Advanced Materials Physics
+
 footer_entries:
   - title: Ilnur's homepage
     url: https://ilnurgimadi.github.io
