@@ -1,14 +1,3 @@
-navbar_entries:
-  - title: about
-    url: about
-
-  - title: blog
-    url: blog
-
-  - title: website
-    url: https://ilnurgimadi.github.io
-
-
 footer_entries:
   - title: Ilnur's homepage
     url: https://ilnurgimadi.github.io
